@@ -1,0 +1,30 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVSHq1Y0_e1Ush7zSgbjvZU3EXGtqqGs3Bf6YBT592w&s=10");
+    background-size: cover;
+}
+.container{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* width:200px; */
+    height:100vh;
+    text-shadow: 2px 2px 4px whitesmoke;
+    font-size: 30px;
+    
+}
+.heading{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 2px 2px 8px whitesmoke;
+    font-size: 100px;
+}
+.input:hover{
+    background-color: rgb(248, 187, 165);
+}
+.button:hover{
+    background-color: aqua;
+}
